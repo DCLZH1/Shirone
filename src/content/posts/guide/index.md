@@ -4,7 +4,7 @@ published: 2026-11-4
 updated: 2026-11-4
 pinned: true
 description: "About my blog"
-image: "./image-grid-demo/landscape-1.jpeg"
+image: "./image-grid-demo/landscape-1.webp"
 tags: ["Blogging"]
 category: Guides
 draft: false
