@@ -128,13 +128,6 @@ export const LinkPresets: Record<string, NavBarLink> = {
 		icon: "material-symbols:info-outline-rounded",
 		pageKey: "about",
 	},
-	GitHub: {
-		name: "GitHub",
-		url: "https://github.com/LyraVoid/Shirone",
-		icon: "fa7-brands:github",
-		external: true,
-		pageKey: "github",
-	},
 };
 
 const defaultNavBarConfig: NavBarConfig = {
@@ -160,7 +153,6 @@ const defaultNavBarConfig: NavBarConfig = {
 				// LinkPresets.Categories,
 				// LinkPresets.Tags,
 				LinkPresets.About,
-				LinkPresets.GitHub,
 			],
 		},
 	],
