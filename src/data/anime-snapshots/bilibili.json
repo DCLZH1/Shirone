@@ -1,0 +1,200 @@
+{
+  "schemaVersion": 1,
+  "provider": "bilibili",
+  "fetchedAt": "2026-11-03T21:28:15.449Z",
+  "accountRef": "349504899",
+  "items": [
+    {
+      "title": "Ｄｒ．ＳＴＯＮＥ 石纪元 (第四季)",
+      "status": "watching",
+      "rating": 9.9,
+      "year": "2025",
+      "genres": [
+        "漫画改",
+        "热血",
+        "战斗",
+        "科幻",
+        "冒险"
+      ],
+      "cover": "/assets/anime/covers/bili_80512.webp",
+      "link": "https://www.bilibili.com/bangumi/play/ss80512",
+      "description": "从石器时代到现代文明， 疾驰过200万年的科学史！ 前所未有的冒险传记，于此开幕！ 在宝岛的激战结束后，千空等人平安回到了科学王国。 他们用得到的石化装置，成功复活了陷入冷冻睡眠的司。 司成为了科学...",
+      "studio": "日本",
+      "identity": {
+        "provider": "bilibili",
+        "sourceId": "24449643",
+        "seasonId": "80512"
+      }
+    },
+    {
+      "title": "光死去的夏天",
+      "status": "watching",
+      "rating": 9.7,
+      "year": "2025",
+      "genres": [
+        "漫画改",
+        "奇幻",
+        "校园",
+        "神魔",
+        "推理"
+      ],
+      "cover": "/assets/anime/covers/bili_102181.webp",
+      "link": "https://www.bilibili.com/bangumi/play/ss102181",
+      "description": "佳纪与光是在某个村落从小一起长大的同龄玩伴。 烈日灼烤大地，蝉鸣萦绕耳畔。在回家路上吃着冰棒，聊着琐事相视而笑。 就在这个一如既往的夏日里—— 「……你，其实并不是光吧？」 半年前，在山里失踪的光竟在...",
+      "studio": "日本",
+      "identity": {
+        "provider": "bilibili",
+        "sourceId": "26642146",
+        "seasonId": "102181"
+      }
+    },
+    {
+      "title": "咔嗒咔嗒",
+      "status": "watching",
+      "rating": 9.2,
+      "year": "2025",
+      "genres": [
+        "漫画改",
+        "热血",
+        "奇幻",
+        "战斗"
+      ],
+      "cover": "/assets/anime/covers/bili_102255.webp",
+      "link": "https://www.bilibili.com/bangumi/play/ss102255",
+      "description": "《咔嗒咔嗒》是一部战斗动作作品，主角是名叫路德的孤儿少年。他生于罪犯后代居住的贫民窟，而贫民窟居民被分界线另一侧的人称为“族民”，饱受着他们的欺辱与歧视。 在这样的世界中，路德与养父雷格特一起，依靠超...",
+      "studio": "日本",
+      "identity": {
+        "provider": "bilibili",
+        "sourceId": "26649570",
+        "seasonId": "102255"
+      }
+    },
+    {
+      "title": "暂停！智序重组",
+      "status": "watching",
+      "rating": 9.6,
+      "year": "2024",
+      "genres": [
+        "原创",
+        "奇幻",
+        "战斗",
+        "搞笑"
+      ],
+      "cover": "/assets/anime/covers/bili_45980.webp",
+      "link": "https://www.bilibili.com/bangumi/play/ss45980",
+      "description": "在一片未知大陆上，有一座名为9号卫星城的城市，城中螺丝厂的螺丝扶正工芮梨在日复一日的枯燥工作中，逐步察觉到了这座城市的不真实。在神秘角色“Anull”的帮助下，芮梨获得了“换装”的超能力，并化身怪盗“...",
+      "studio": "中国大陆",
+      "identity": {
+        "provider": "bilibili",
+        "sourceId": "21084056",
+        "seasonId": "45980"
+      }
+    },
+    {
+      "title": "Ｄｒ．ＳＴＯＮＥ 石纪元 (第三季)",
+      "status": "watching",
+      "rating": 9.8,
+      "year": "2023",
+      "genres": [
+        "热血",
+        "科幻",
+        "漫画改",
+        "励志",
+        "冒险"
+      ],
+      "cover": "/assets/anime/covers/bili_44865.webp",
+      "link": "https://www.bilibili.com/bangumi/play/ss44865",
+      "description": "自全人类被神秘现象瞬间石化之后，已过去了几千年—— 千空，一个有着超越常人的头脑，彻头彻尾的科学少年醒来了。 面对着文明已经灭绝的石之世界，千空决心以科学的力量重建地球，他找来了同伴，建立起了“科学王...",
+      "studio": "日本",
+      "identity": {
+        "provider": "bilibili",
+        "sourceId": "20140807",
+        "seasonId": "44865"
+      }
+    },
+    {
+      "title": "暂停！让我查攻略",
+      "status": "watching",
+      "rating": 9.4,
+      "year": "2022",
+      "genres": [
+        "原创",
+        "奇幻",
+        "搞笑",
+        "少女"
+      ],
+      "cover": "/assets/anime/covers/bili_39697.webp",
+      "link": "https://www.bilibili.com/bangumi/play/ss39697",
+      "description": "因为召唤过程中的失误，30岁社畜刘依诺意外被召唤到游戏世界中。为了尽快回到现实，刘依诺开始协助18岁的“勇者”田恩雅拯救世界。本来就是高玩的依诺凭借自己出色的认知，在异世界里如鱼得水。恩雅也从一个任性...",
+      "studio": "中国大陆",
+      "identity": {
+        "provider": "bilibili",
+        "sourceId": "28235391",
+        "seasonId": "39697"
+      }
+    },
+    {
+      "title": "蓝色监狱 / 蓝色禁区",
+      "status": "watching",
+      "rating": 9.2,
+      "year": "2022",
+      "genres": [
+        "热血",
+        "运动",
+        "漫画改"
+      ],
+      "cover": "/assets/anime/covers/bili_43145.webp",
+      "link": "https://www.bilibili.com/bangumi/play/ss43145",
+      "description": "不当世界第一的利己主义者，就当不上世界第一的前锋。为了培养出能带领日本队夺得世界杯的前锋，日本足球协会制定了一个计划。其名为「蓝色监狱」计划。300名高中生被召集于此，并且全员都是前锋。以其中299人...",
+      "studio": "日本",
+      "identity": {
+        "provider": "bilibili",
+        "sourceId": "28339713",
+        "seasonId": "43145"
+      }
+    },
+    {
+      "title": "Ｄｒ．ＳＴＯＮＥ 石纪元  (第二季)",
+      "status": "watching",
+      "rating": 9.7,
+      "year": "2021",
+      "genres": [
+        "热血",
+        "科幻",
+        "漫画改",
+        "冒险"
+      ],
+      "cover": "/assets/anime/covers/bili_36175.webp",
+      "link": "https://www.bilibili.com/bangumi/play/ss36175",
+      "description": "全人类因谜般的现象而在一瞬间石化，之后过了数千年—— 拥有超越人类的头脑，天生的科学少年·千空苏醒了。 面对文明毁灭的石之世界（STONE WORLD）， 千空决定依靠科学的力量取回原本的世界。 他...",
+      "studio": "日本",
+      "identity": {
+        "provider": "bilibili",
+        "sourceId": "28231817",
+        "seasonId": "36175"
+      }
+    },
+    {
+      "title": "Ｄｒ．ＳＴＯＮＥ 石纪元",
+      "status": "watching",
+      "rating": 9.7,
+      "year": "2019",
+      "genres": [
+        "热血",
+        "科幻",
+        "漫画改",
+        "励志",
+        "冒险"
+      ],
+      "cover": "/assets/anime/covers/bili_27993.webp",
+      "link": "https://www.bilibili.com/bangumi/play/ss27993",
+      "description": "全人类因神秘现象瞬间被石化后，过了数千年——。 拥有超人头脑的科学少年千空苏醒了。 面对文明灭绝的石之世界， 千空决心用科学的力量夺回这个世界。 让体力过人的青梅竹马·大木大树苏醒， 要从零开始创造...",
+      "studio": "日本",
+      "identity": {
+        "provider": "bilibili",
+        "sourceId": "28221387",
+        "seasonId": "27993"
+      }
+    }
+  ]
+}
