@@ -9,8 +9,7 @@ tags: ["Blogging"]
 category: Guides
 draft: false
 ---
-
 Welcome to My blog
-
+---
 I call the blog *Shirone*
 ---
