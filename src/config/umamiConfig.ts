@@ -13,7 +13,7 @@ export const umamiConfig: UmamiConfig = withUserConfig("umami", {
 	/** 全局 Umami 统计总开关：false 时完全不加载 oddmisc 运行时脚本与 DOM */
 	enable: true,
 	/** Umami 分享链接（必填） */
-	shareUrl: "https://cloud.umami.is/share/pou6dsrWrL1GuW3d",
+	shareUrl: "https://cloud.umami.is/analytics/us/share/pou6dsrWrL1GuW3d",
 	/** Umami Website ID；与 scriptUrl 同时填写时启用访问采集 */
 	websiteId: "1666f9a2-6d18-4bd3-a654-f4e332bbb853",
 	/** Umami 采集脚本 URL；与 websiteId 同时填写时启用访问采集 */
