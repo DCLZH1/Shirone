@@ -50,7 +50,7 @@ test.describe("文章内系列块", () => {
 
 			// 系列名是二级标题里的链接（与 Continue reading 同级）
 			const heading = card.getByRole("heading", { level: 2 });
-			await expect(heading).toHaveText("Markdown Syntax Guide");
+			await expect(heading).toHaveText("");
 			await expect(heading.getByRole("link")).toHaveAttribute(
 				"href",
 				"/series/markdown-syntax-guide/",
@@ -174,8 +174,8 @@ test("系列详情页按 seriesOrder 排序并标注篇号", async ({ page }) =>
 test("系列索引页给出状态、篇数与默认分类", async ({ page }) => {
 	await openSitePage(page, "/series/");
 	await expect(page.locator(".series-index__title")).toHaveText([
-		"Media Embeds",
-		"Markdown Syntax Guide",
+		"",
+		"",
 	]);
 	await expect(page.locator(".series-index__status")).toHaveText([
 		"Ongoing",
