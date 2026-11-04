@@ -12,7 +12,7 @@ export const profileConfig: ProfileConfig = withUserConfig("profile", {
 	links: [
 		{
 		name: "Bilibili",                     // 显示名称
-		icon: "fa6-brands:bilibili",          // iconify 图标编码
+		icon: "fa7-brands:bilibili",          // iconify 图标编码
 		url: "https://space.bilibili.com/349504899",  // 跳转地址
 		},
 		{
