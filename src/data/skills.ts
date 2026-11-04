@@ -9,7 +9,7 @@ export const skillsData: SkillItem[] = [
 		name: "LUAU",
 		description:
 			"Everyday and in my life",
-		icon: "material-icon-theme:luau",
+		icon: "catppuccin:luau",
 		category: "frontend",
 		level: "advanced",
 	},
