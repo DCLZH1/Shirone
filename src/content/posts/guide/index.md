@@ -11,5 +11,6 @@ draft: false
 ---
 
 Welcome to My blog
+
 I call the blog *Shirone*
 ---
