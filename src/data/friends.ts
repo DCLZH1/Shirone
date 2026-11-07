@@ -20,7 +20,7 @@ export const friendsData: FriendItem[] = [
     id: 1,
     title: "剑客",
     imgurl: "https://avatars.githubusercontent.com/u/225602409?v=4&s=640",
-    desc: "Another Fuwari-based blog theme with docs",
+    desc: "nothing, just my team",
     siteurl: "jianke.info",
     tags: [],
   },
