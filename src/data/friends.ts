@@ -24,6 +24,14 @@ export const friendsData: FriendItem[] = [
 		siteurl: "jianke.info",
 		tags: ["Blog", "Theme"],
 	},
+	{
+    id: 2,
+    title: "Mizuki",
+    imgurl: "https://avatars.githubusercontent.com/u/…",
+    desc: "Another Fuwari-based blog theme with docs",
+    siteurl: "https://mizuki.mysqil.com",
+    tags: ["Blog", "Theme"],
+  },
 ];
 
 // 获取所有友情链接数据（稳定顺序，测试可复现）
