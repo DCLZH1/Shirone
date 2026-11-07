@@ -17,20 +17,12 @@ export interface FriendItem {
 // 友情链接数据
 export const friendsData: FriendItem[] = [
 	{
-		id: 1,
-		title: "剑客",
-		imgurl: "https://avatars.githubusercontent.com/u/225602409?v=4&s=640",
-		desc: "nothing just my team",
-		siteurl: "jianke.info",
-		tags: ["Blog", "Theme"],
-	},
-	{
-    id: 2,
-    title: "Mizuki",
-    imgurl: "https://avatars.githubusercontent.com/u/…",
+    id: 1,
+    title: "剑客",
+    imgurl: "https://avatars.githubusercontent.com/u/225602409?v=4&s=640",
     desc: "Another Fuwari-based blog theme with docs",
-    siteurl: "https://mizuki.mysqil.com",
-    tags: ["Blog", "Theme"],
+    siteurl: "jianke.info",
+    tags: [],
   },
 ];
 
